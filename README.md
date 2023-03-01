@@ -1,7 +1,6 @@
-# PP-finalproject
+# ASAP_with_CUDA
 
 ### Introduction
-This is nycu 2022 parallel programming final project.  
 In this project, we use cuda to accelerate the Floyd-warshall algorithm and compare the execution time to the serial one. Moreover, we also take advantage of the tiling technique to reduce global memory access time, which improve the performance furthermore.  
 
 ### How to use
